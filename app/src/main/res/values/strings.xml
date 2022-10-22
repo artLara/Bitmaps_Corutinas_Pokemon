@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitmapsCorutinas</string>
+    <string name="iniciar_corutina">Iniciar Corutina</string>
+</resources>
